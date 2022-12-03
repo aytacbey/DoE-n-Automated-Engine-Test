@@ -8,7 +8,7 @@ Basic steps for D-Optimality criterion is as follows. 2. Order Taylor Series is 
 # How it works?
 In order to run the tool main.py should be executed. 
 * main.py is the initial script to run. 
-* page_manager.py is used for switching between pages and signals to be transferred from öne class to another.
+* page_manager.py is used for switching between pages and signals to be transferred from one class to another.
 * doe_manager.py arranges all the things that's related to DoE.
 * table_manager.py simply responsible for generation of tables that's. This is used as an instance in doe_manager.py
 * doe_point_generator.py is solely for generating D-Optimal test points. This is used as an instance in table_manager.py
