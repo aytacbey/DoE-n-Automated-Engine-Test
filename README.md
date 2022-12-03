@@ -19,9 +19,9 @@ engine_test_automation.py is solely responsible for running the engine test with
 
 
 # To do
-More models should be available for D-Optimality criterion. Right now 2. Order Taylor Series is the only option.
-Automated test for Inca should be available.
-Right now the algorithm cannot guarantee global d-optimality, for this algorithms like "row exchange" should be implemented.
+1. More models should be available for D-Optimality criterion. Right now 2. Order Taylor Series is the only option.
+2. Automated test for Inca should be available.
+3. Right now the algorithm cannot guarantee global d-optimality, for this algorithms like "row exchange" should be implemented.
 
 
 
