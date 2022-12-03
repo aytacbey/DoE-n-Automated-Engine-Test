@@ -1,4 +1,4 @@
-# EngineTestAutomation
+# DoE & Automated Engine Test
 # Introduction
 Salam (Peace). I wrote this repository for generation of test points in accordance with D-Optimality criterion for 4 variables and to automate engine tests which is a time consuming and exhaustive process. Automated engine test is available for ATI Vision (a program mainly used for ECU test) via generated or imported test points.
 
